@@ -1,0 +1,39 @@
+{
+   "srvices" : [
+            {   
+                "id":0,
+                "title":"Artifice Inteligence",
+                "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates a alias fugit beatae sint consectetur!",
+                "courses":22,
+                "imgsrc":"/images/service (4).jpeg"  
+            },
+            {   
+                "id":1,
+                "title":"Data Analysis",
+                "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates a alias fugit beatae sint consectetur!",
+                "courses":45 ,
+                "imgsrc":"images/service (5).jpeg"  
+            },
+            {   
+                "id":2,
+                "title":"Machine Learning",
+                "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates a alias fugit beatae sint consectetur!",
+                "courses":30,
+                "imgsrc":"/images/service (1).jpeg"   
+            },
+            {   
+                "id":3,
+                "title":"Web Development",
+                "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates a alias fugit beatae sint consectetur!",
+                "courses":20,
+                "imgsrc":"/images/service (1).jpg"   
+            },
+            {   
+                "id":4,
+                "title":"Arduino",
+                "discription" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates a alias fugit beatae sint consectetur!",
+                "courses":35,
+                "imgsrc":"images/service (2).jpeg"   
+            }
+                ]
+}

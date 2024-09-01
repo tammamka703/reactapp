@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    background-image: url("../Assets/images/leacturehall.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    gap:2rem;
+    padding-block: 4rem;
+}
+
+
+.service_card_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    background-image: url("../Assets/images/servicebg.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    gap:2rem;
+    padding-block: 4rem;
+}

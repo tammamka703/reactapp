@@ -1,0 +1,78 @@
+
+{
+    "cardCount" : 22,
+    "subjects" : [
+        {
+            "id":1,
+            "name":"System Controling",
+            "discp":"An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.",
+            "serial_Number":"123d1f1f22",
+            "imgSrc":"/images/operating-system.webp",
+            "professor":"Dr.someone",
+            "difficulity":"70%",
+            "headlines":[
+                "controles unite",
+                "setup controlers",
+                "controlin daiagrams",
+                "flow controles"
+            ],
+            "book":"controle System by smith",
+            "inhand":true
+
+        },
+        {
+            "id":2,
+            "name":"data bases",
+            "discp":"A database is a collection of data that is stored and accessed electronically. Databases can be used to store and manage large amounts of structured and unstructured data, and they can be used to support a wide range of activities, including data storage, data analysis, and data management. ",
+            "serial_Number":"2342f32qf32",
+            "imgSrc":"/images/database.webp",
+            "professor":"Dr.someone",
+            "difficulity":"70%",
+            "headlines":[
+                "controles unite",
+                "setup controlers",
+                "controlin daiagrams",
+                "flow controles"
+            ],
+            "book":"data bases by meta ",
+            "inhand":true
+
+        },
+        {
+            "id":3,
+            "name":"Web Development",
+            "discp":"Web development is the process of creating and maintaining websites and web applications for the internet or for a private network. It involves the design, layout, coding, content creation, and functionality of the project. Web developers use a combination of programming languages, tools, and frameworks to bring a website to life",
+            "serial_Number":"123d1f1f22",
+            "imgSrc":"/images/card (3).jpg",
+            "professor":"Dr.someone",
+            "difficulity":"70%",
+            "headlines":[
+                "controles unite",
+                "setup controlers",
+                "controlin daiagrams",
+                "flow controles"
+            ],
+            "book":"controle System by smith",
+            "inhand":true
+
+        },
+        {
+            "id":4,
+            "name":"Field Programable Gates Array",
+            "discp":"Field Programmable Gate Arrays (FPGAs) are integrated circuits often sold off-the-shelf. They’re referred to as ‘field programmable’ because they provide customers the ability to reconfigure the hardware to meet specific use case requirements after the manufacturing process. This allows for feature upgrades and bug fixes to be performed in situ, which is especially useful for remote deployments.",
+            "serial_Number":"123d1f1f22",
+            "imgSrc":"/images/fbga.webp",
+            "professor":"Dr.someone",
+            "difficulity":"70%",
+            "headlines":[
+                "controles unite",
+                "setup controlers",
+                "controlin daiagrams",
+                "flow controles"
+            ],
+            "book":"controle System by smith",
+            "inhand":false
+
+        }
+    ]
+}
